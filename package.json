@@ -1,0 +1,15 @@
+{
+  "name": "server-captcha",
+  "version": "1.0.0",
+  "description": "验证码服务。支持发送短信验证码、获取图片验证码。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guyuezhai/SMS-verification-code.git"
+  },
+  "author": "guyue_fei@163.com",
+  "license": "ISC"
+}
