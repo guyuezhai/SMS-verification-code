@@ -17,5 +17,5 @@ app.use( captcha.routes(), captcha.allowedMethods() );
 let port = config.port;
 
 app.listen(port,function(){
-    console.log('GeoHey Captcha Service is running on port ' + port);
+    console.log('Captcha Service is running on port ' + port);
 });
